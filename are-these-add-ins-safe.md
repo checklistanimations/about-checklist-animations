@@ -4,7 +4,7 @@ I would like to address this with questions people actually ask themselves when 
 
 - ❓ Are you trying to infect my system, steal my information, or do anything harmful?
      - What a horrible thing to do to someone. No my add‑ins exist for one purpose: to help people create better PowerPoint projects.
-     - If you want proof of my intentions, check out my activity on (Reddit)[https://www.reddit.com/user/ChecklistAnimations/] - you'll see hundreds of posts and replies helping users, answering questions, and building tools for the community.
+     - If you want proof of my intentions, check out my activity on [Reddit](https://www.reddit.com/user/ChecklistAnimations/) - you'll see hundreds of posts and replies helping users, answering questions, and building tools for the community.
 - ❓ Why should I trust you?
      - My work is public. Every add‑in lives in a GitHub repository with its source code available for anyone to inspect.
      - I've built a reputation in the PowerPoint animation and design community by being transparent, consistent, and genuinely helpful.
