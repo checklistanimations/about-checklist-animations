@@ -2,13 +2,13 @@
 
 It's an acronym. Here is what it stands for
 
--**C**hecklist
--**A**nimations
--**S**hape
--**C**ontrol
--**A**nd
--**D**esign
--**E**fficiency
+- **C**hecklist
+- **A**nimations
+- **S**hape
+- **C**ontrol
+- **A**nd
+- **D**esign
+- **E**fficiency
 
 So my add-ins have a pretty high focus on controling shapes. I don't think of my toolset as something that stays open all the time. They are just there when you need them. They fix very speciifc pain points easily and quickly.
 
