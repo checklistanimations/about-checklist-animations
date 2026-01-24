@@ -20,4 +20,4 @@ I use these very same tools in my animations that have hundreds of shapes on eac
 
 So yeah Cascade is all of that. My sincere hope is that it helps you in some way.
 
-link
+- [What is Cascade?](https://github.com/checklistanimations/about-checklist-animations/blob/main/What%20is%20Cascade%3F)
