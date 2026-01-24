@@ -20,6 +20,8 @@ I would like to address this with questions people actually ask themselves when 
 - Every add‑in is built by me, tested by me, and released through GitHub.
 - I don't use installers, third‑party hosting, or anything that could hide what's inside.
 ❓ Can I review the code myself?
+
+- [Back to About](https://github.com/checklistanimations/about-checklist-animations/blob/main/README.md)
 - Absolutely. Each repository contains the full source code, plus short and long explanations of what the tool does.
 - If you're curious or cautious, you can read through the code before downloading the PPAM.
 ❓ What if I'm still unsure?
