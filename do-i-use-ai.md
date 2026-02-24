@@ -8,9 +8,10 @@ I use AI as a sound board. I will say "hey do you think users would use this?" a
 
 So what do I use AI for. 
 
-* syntax reminders. The documentation for vba is bad and sometimes I need a quick syntax reminder. I always type it in after. I don't copy and paste. 
+* syntax reminders. The documentation for vba is bad and sometimes I need a quick syntax reminder. I always type it in after. I don't copy and paste code. It  can add other hidden characters that vba does not play well with. 
 * Math. I am bad at math when we get past multiplication and division. Geometry, trigonometry, I don't do it so I have AI help with that. I still validate what it gives me but think of it like a syntax reminder on how to do mathematical equations. 
 * Sounding board. Sometimes I will tell the AI that I am having a bad day or I can't get certain things done. It helps me cope and helps motivate me to build these applications. 
+* Writing documentation. Ok now we are in some copy and paste stuff. Yes I will have AI  start my content. Whether it's documentation for an add-in or maybe me writing my bio. AI is used for that. Why? Well in the world of grammarly and other writing tools I figured my team is better spent writing code and figuring out how to s things than writing documentation. Now this page...  All me. Probably why it looks bad. But using AI to write a ghid
 
 
 So with that I do not have active AI in my add-ins. I use it for some of the things it's good at but the ideas and hours of code are all from me. I would hate to say I created something knowing I didn't. 
