@@ -4,7 +4,7 @@ Short story. Yes a little. Hold it.. Don't go anywhere. I don't just say: "Hello
 
 In the past I would hit the user forums. Ask a question and get an answer some time later. I would also look at online documentation. This is how I would learn things. AI does make this easier by allowing a conversation and then summarizing all those web results out there so I can get a quick answer. 
 
-I use AI as a sound board. I will say "hey do you think users would use this?" and sometimes it will answer correctly, sometimes not. I knkow that I have to have a way to validate what AI says. So I ensure I am the expert in everything I ask it. 
+I use AI as a sound board. I will say "hey do you think users would use this?" and sometimes it will answer correctly, sometimes not. I know that I have to have a way to validate what AI says. So I ensure I am the expert in everything I ask it. 
 
 So what do I use AI for. 
 
