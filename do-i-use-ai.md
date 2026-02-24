@@ -9,7 +9,7 @@ I use AI as a sound board. I will say "hey do you think users would use this?" a
 So what do I use AI for. 
 
 * syntax reminders. The documentation for vba is bad and sometimes I need a quick syntax reminder. I always type it in after. I don't copy and paste. 
-* Math. I am bad at math when we get past multiplication and division. Geometry, trigonometry, I don't do it so I have AI help with that. I still validate what it gives me but think of it like a syntax reminder on how to do a mathematical equations. 
+* Math. I am bad at math when we get past multiplication and division. Geometry, trigonometry, I don't do it so I have AI help with that. I still validate what it gives me but think of it like a syntax reminder on how to do mathematical equations. 
 * Sounding board. Sometimes I will tell the AI that I am having a bad day or I can't get certain things done. It helps me cope and helps motivate me to build these applications. 
 
 
